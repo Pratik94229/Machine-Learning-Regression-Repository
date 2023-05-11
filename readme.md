@@ -12,14 +12,15 @@ The goal of this project was to forecast the weekly sales volume of 10k+ Rossman
 
 We performed regression analysis using Linear Regression, Ridge Regression, Lasso Regression, ElasticNet Regression,Random forest,XGboost,LGBM etx. We also used time-series analysis with FBProphet.
 
-Files and Folders
-bike_sharing_demand_prediction: contains the code and data related to the bike sharing demand prediction project.
-rossmann_sales_prediction: contains the code and data related to the Rossmann sales prediction project.
-README.md: provides an overview of the repository.
-Getting Started
+## Files and Folders
+* bike_sharing_demand_prediction: contains the code and data related to the bike sharing demand prediction project.
+* rossmann_sales_prediction: contains the code and data related to the Rossmann sales prediction project.
+* README.md: provides an overview of the repository.
+
+## Getting Started
 To run the code in this repository, you need to have Python installed along with the following libraries: numpy, pandas, matplotlib, seaborn, scikit-learn, fbprophet etc which you can find in the first line of the notebook.
 
-Conclusion
+## Conclusion
 Overall, the regression models were able to predict the bike sharing demand and Rossmann sales with reasonable accuracy. Time-series analysis with FBProphet also proved to be a useful tool for forecasting future sales.
 
 Thank you for visiting our regression repository!
